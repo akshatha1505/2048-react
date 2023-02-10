@@ -40,7 +40,8 @@ If you change a file which needs to be rebuilt (that is, any file inside the ```
  
 We would like to give credits to:
 
-Ivan Vergiliev
+Ivan Vergiliev.
+
 His logic was very easy to follow and was not having any unnecessary complications. Below is the repository where you will find the logic which we have used in our project.
 https://github.com/IvanVergiliev/2048...
 
