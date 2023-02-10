@@ -35,3 +35,12 @@ If you change a file which needs to be rebuilt (that is, any file inside the ```
     npm install
     gulp build   # to rebuild the files once, or
     gulp   # to watch the files for changes and rebuild continously.
+ 
+ ## Credits
+ 
+We would like to give credits to:
+
+Ivan Vergiliev
+His logic was very easy to follow and was not having any unnecessary complications. Below is the repository where you will find the logic which we have used in our project.
+https://github.com/IvanVergiliev/2048...
+
